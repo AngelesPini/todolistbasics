@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+.lista {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px 0 0 0;
+}
+h3 {
+  display: flex;
+}
+h1 {
+  padding: 50px;
+}
+ul li {
+  list-style-type: none;
+}
+#doneList li {
+  text-decoration: line-through;
+}
